@@ -11,7 +11,7 @@ A simple yet powerful spam detection tool built using **Python**, **TF-IDF**, an
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/sms-spam-detector.git
+git clone https://github.com/kishanyash/Spam_classifier.git
 cd sms-spam-detector
 pip install -r requirements.txt
 streamlit run app.py
@@ -29,7 +29,7 @@ streamlit run app.py
 
 ## 🙌 Author
 
-Built with ❤️ by **\[Your Name]**
+Built with ❤️ by Kishan Yadav
 
 ## 📄 License
 
