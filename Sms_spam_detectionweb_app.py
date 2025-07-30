@@ -780,7 +780,7 @@ def main():
     st.markdown("""
     <div class="footer" style='text-align: center; color: #666; padding: 2rem;'>
         <h3>🛡️ Advanced SMS Spam Detection System</h3>
-        <p>🚀 Powered by Machine Learning & TF-IDF Vectorization | Built with ❤️ using Streamlit</p>
+        <p>🚀 Powered by Machine Learning & TF-IDF Vectorization | Made with ❤️ by Kishan Yadav </p>
         <p>🕒 Last updated: """ + datetime.now().strftime("%Y-%m-%d %H:%M:%S") + """</p>
         <p>📊 Session Analytics: """ + str(st.session_state.get('analysis_count', 0)) + """ messages analyzed</p>
     </div>
