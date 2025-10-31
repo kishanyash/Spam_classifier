@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 SMS Spam Detection Web Application with Enhanced UI/UX and Animations
-Created on Fri Jul  5 20:59:37 2024
+Created on Fri Jul  5 20:59:37 2025
 @author: ABC
 """
 
@@ -788,3 +788,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
